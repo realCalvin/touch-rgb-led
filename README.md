@@ -36,5 +36,6 @@
 -Clear LED
 
 
-
-*This project was coded using the Arduino and FastLED library.*
+ _________________________________________________________________
+| *This project was coded using the Arduino and FastLED library.* |
+ -----------------------------------------------------------------

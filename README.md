@@ -6,19 +6,36 @@ Video demo:
 
 // POST YOUTUBE LINK HERE
 
+
+
 Settings:
+
 -RGB Panel
+
 -Brightness Panel
 
+
+
 Effects:
+
 -Solid Color
+
 -Breathe
+
 -Fade
+
 -Rainbow
+
 -Meteor Trail
+
 -Multiple Meteor Trails
+
 -Moving Rainbow
+
 -Sunlight
+
 -Clear LED
+
+
 
 This project was coded using the Arduino and FastLED library.
